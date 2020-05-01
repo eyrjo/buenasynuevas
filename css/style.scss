@@ -241,7 +241,20 @@ margin-top: 5%;
 margin-bottom:5%;
 padding-left: 2%;
 padding-right: 2%;
-border-radius: 1em;
+border-radius: 0.5em;
 display: flex;
 flex-direction: column;
 }
+
+.texto-newsletter {
+  width:49%;
+  float: left;
+  font-family: 'helvetica, arial, sans-serif';
+  text-align: left;
+}
+
+.form-newsletter {
+  width:49%;
+  float: right;
+  align-self: center;
+} 
