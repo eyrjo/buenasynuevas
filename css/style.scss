@@ -233,3 +233,15 @@ table {
 .post-date {
   color: $post-date-color;
 }
+
+.suscribe {
+width:100%;
+background-color:#d3d3d3;
+margin-top: 5%;
+margin-bottom:5%;
+padding-left: 2%;
+padding-right: 2%;
+border-radius: 1em;
+display: flex;
+flex-direction: column;
+}
