@@ -239,8 +239,8 @@ table {
 .suscribe {
 width:100%;
 background-color:#d3d3d3;
-margin-top: 5%;
-margin-bottom:5%;
+margin-top: 0%;
+margin-bottom: 3%;
 padding-left: 2%;
 padding-right: 2%;
 border-radius: 0.5em;
@@ -251,20 +251,29 @@ display: inline-block;
   padding-top: 1%;
   padding-bottom: 1%;
   width:50%;
+  margin
  float: left;
   text-align: left;
 }
 
+p.titulo-newsletter {
+  margin-bottom: 0.3em;
+}
+
 p.subtexto-newsletter {
   font-size: 0.8em;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .form-newsletter {
   width:50%;
-  padding-top: 9%;
+  padding-top: 1%;
   padding-bottom: 1%;
-  float: left;
-text-align: center;
+  float: right;
+display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
 } 
 
@@ -272,4 +281,7 @@ text-align: center;
   width: 100%;
   position: absolute;
   top: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
