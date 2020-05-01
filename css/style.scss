@@ -248,6 +248,8 @@ display: inline-block;
 }
 
 .texto-newsletter {
+  padding-top: 1%;
+  padding-bottom: 1%;
   width:50%;
  float: left;
   text-align: left;
@@ -255,9 +257,15 @@ display: inline-block;
 
 .form-newsletter {
   width:50%;
-  padding-top: 4%;
+  padding-top: 9%;
+  padding-bottom: 1%;
   float: left;
 text-align: center;
-  justify-content: center;
-  align-items: inherit;
+  position: relative;
 } 
+
+.form-fields {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+}
