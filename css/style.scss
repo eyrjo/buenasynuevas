@@ -234,6 +234,8 @@ table {
   color: $post-date-color;
 }
 
+//////////// Suscripcion
+
 .suscribe {
 width:100%;
 background-color:#d3d3d3;
@@ -242,18 +244,20 @@ margin-bottom:5%;
 padding-left: 2%;
 padding-right: 2%;
 border-radius: 0.5em;
-display: flex;
-flex-direction: column;
+display: inline-block;
 }
 
-.texto-newsletter {
-  width:49%;
-  float: left;
+.texto-newsletter {
+  width:50%;
+ float: left;
   text-align: left;
 }
 
 .form-newsletter {
-  width:49%;
+  width:50%;
+  padding-top: 4%;
   float: left;
-  align-self: center;
+text-align: center;
+  justify-content: center;
+  align-items: inherit;
 } 
