@@ -1,8 +1,7 @@
 ---
 layout:default
-title: Acerca de
+title:'Acerca de'
 permalink: /info.html
-
 ---
 
 Cada día sale el sol.
