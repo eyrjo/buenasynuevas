@@ -183,9 +183,10 @@ table {
 //  Masthead
 
 .masthead {
+  text-align:center;
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 
  .masthead-title {
     margin-top: 0;
@@ -210,7 +211,7 @@ table {
 // Posts
 
 .post {
-  margin-bottom: 5em;
+  margin-bottom: 1em;
 
   // note: only change margin for title,date if inside post block
   .post-title {
@@ -240,7 +241,7 @@ table {
 width:96%;
 background-color:#d3d3d3;
 margin-top: 0%;
-margin-bottom: 2rem;
+margin-bottom: 3rem;
 padding-left: 2%;
 padding-right: 2%;
 border-radius: 0.5em;
