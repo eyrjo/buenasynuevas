@@ -16,15 +16,15 @@ Este es un proyecto de [Yrjö](https://yrjo.tk/blog) para recopilar todos esos m
 
 Puedes recibir mi selección de noticias directamente en tu correo electrónico. **¡Recuerda confirmar tu suscripción a través del enlace que te llegará a tu bandeja de entrada!**
 
-## Protección intelectual
+## Aviso legal
 
 **Todos los artículos recopilados y sus extractos son propiedad de sus respectivos autores y los medios de comunicación.**  
-**Los enlaces publicados en esta página no generan ningún tipo de beneficio económico.**
+**Los enlaces publicados en esta página no generan ningún tipo de beneficio económico y conducen directamente al contenido original**
 
 ## Contacto
 
 Si tienes alguna buena noticia que quieras compartir, [escríbeme](mailto:yrjo@tuta.io).  
   
-    
+<div style="margin-top:1rem;"></div>   
 ---
 <div style="margin-bottom:3rem;"></div>
