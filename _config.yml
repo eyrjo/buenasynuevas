@@ -30,3 +30,9 @@ exclude:
 safe: true
 lsi: false
 
+plugins: [jekyll-paginate]
+
+# PAGINATION
+paginate: 5
+paginate_path: "/page:num"
+
