@@ -27,12 +27,12 @@ Todos los enlaces publicados en esta página conducen directamente al contenido 
 Si tienes alguna buena noticia que quieras compartir, [escríbeme](mailto:yrjo@tuta.io).  
 
 <div class="shareon" style="text-align:center; margin-top:2rem; margin-bottom:1rem;" >
-    <button class="facebook"></a>
-    <button class="messenger"></a>
-    <button class="pinterest"></a>
-    <button class="telegram"></a>
-    <button class="twitter"></a>
-    <button class="whatsapp"></a>
+    <button class="facebook">
+    <button class="messenger">
+    <button class="pinterest">
+    <button class="telegram">
+    <button class="twitter">
+    <button class="whatsapp">
 </div>
 
 ---
