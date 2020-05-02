@@ -12,7 +12,7 @@ Aunque no lo parezca, todos los días hay buenas noticias.
 
 Los medios de comunicación y las redes sociales priman las noticias _sensacionalistas_ sobre el resto. Es lo que les ayuda a tener audiencia y resultados. Serán las noticias que encabezarán las portadas de los diarios y los sumarios de las televisiones. Muerte, miseria, política, sucesos... Pero, todos los días, se producen otras noticias, más positivas —o, por lo menos, no tan negativas— que no tienen la repercusión que se merecen.
 
-*Razones para ser optimista* es un proyecto de [Yrjö](https://yrjo.tk/blog) para recopilar todos esos motivos que me hagan ser optimista para el futuro. La idea es recoger esas otras noticias, que igual han pasado menospreciadas, pero nos dan motivos para ser positivos y pensar que, de verdad, todo irá bien.
+*Razones para ser optimista* es un proyecto de [Yrjö](https://yrjo.tk/blog) que recopila todos esos motivos que nos devuelvan el optimismo en un momento difícil. La idea es recoger esas otras noticias, que igual han pasado menospreciadas, pero nos dan motivos para ser positivos y pensar que, de verdad, todo irá bien.
 
 Puedes recibir mi selección de noticias directamente en tu correo electrónico. **¡Recuerda confirmar tu suscripción a través del enlace que te llegará a tu bandeja de entrada!**
 
