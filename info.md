@@ -26,5 +26,5 @@ Puedes recibir mi selección de noticias directamente en tu correo electrónico.
 Si tienes alguna buena noticia que quieras compartir, [escríbeme](mailto:yrjo@tuta.io).  
   
     
-    ---
+---
 <div style="margin-bottom:3rem;"></div>
