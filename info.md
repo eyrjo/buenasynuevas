@@ -18,7 +18,7 @@ Puedes recibir mi selección de noticias directamente en tu correo electrónico.
 
 ## Aviso legal
 
-**Todos los artículos recopilados y sus extractos son propiedad de sus respectivos autores y medios de comunicación.**  
+**Todo el contenido —titulares, extractos y otros— recopilado es propiedad de sus respectivos autores y medios de comunicación.**  
 
 Todos los enlaces publicados en esta página conducen directamente al contenido original del medio de comunicación señalado. En ningún caso dichos enlaces generan beneficio alguno para el propietario de esta página.
 
