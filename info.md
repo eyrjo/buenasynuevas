@@ -1,7 +1,8 @@
 ---
-layout:default
-title:'Acerca de'
-permalink: /info.html
+layout: page
+title: Acerca de
+permalink: /info/
+published: true
 ---
 
 Cada día sale el sol.
