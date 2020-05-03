@@ -31,7 +31,13 @@ title: Inicio
             {% endcase %}
           de {{ post.date | date: "%Y" }}
       </span></div>
-  {{ post.content }}
+  
+ {% if post.content contains '<!--more-->' %}
+    {{ post.content | split:'<!--more-->' | first }}
+{% else %}
+    {{ post.content }}
+{% endif %}
+  
 </article>
 
 {% endfor %}
