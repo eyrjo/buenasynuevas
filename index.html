@@ -13,8 +13,8 @@ title: Inicio
     </a>
   </h1>
   <div class="post-date"><span>
-        {% assign m = page.date | date: "%-m" %}
-          {{ page.date | date: "%-d" }} de
+        {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }} de
              {% case m %}
               {% when '1' %}enero
               {% when '2' %}febrero
@@ -29,7 +29,7 @@ title: Inicio
               {% when '11' %}noviembre
               {% when '12' %}diciembre
             {% endcase %}
-          de {{ page.date | date: "%Y" }}
+          de {{ post.date | date: "%Y" }}
       </span></div>
   {{ post.content }}
 </article>
