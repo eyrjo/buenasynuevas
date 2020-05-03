@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "01. De no-reinfecciones, vacunas y cartas"
+permalink: /2020-05-03/
 ---
 ### 1. [Expertos de Corea del Sur aseguran que no hay reinfecciones de coronavirus, sino falsos positivos de los tests de diagnóstico.](https://www.businessinsider.es/reinfecciones-coronavirus-son-realidad-falsos-positivos-631015)
 
@@ -18,4 +19,6 @@ La Fundación Atenea ha puesto en marcha la iniciativa “Cartas desde la cuaren
 
 [La Joven Compañía](https://www.lajoven.es) ofrece de forma gratuíta grabaciones de sus representaciones teatrales, así como fichas didácticas para que los más jóvenes entiendan el trasfondo de la obra. Os dejo su versión de Fuenteovejunta, de Lope de Vega, donde todos los personajes _viven, de forma más o menos consciente, el vértigo de asistir a la muerte de un orden y al nacimiento de otro_.
 
+<div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ta1gLn8tjeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
