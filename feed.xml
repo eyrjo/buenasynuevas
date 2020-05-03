@@ -10,6 +10,7 @@ layout: null
   <id>{{ site.url }}/</id>
   <author>
     <name>{{ site.author.name }}</name>
+    <description>Todos los días sale el sol y todos los días hay buenas noticias</description>
   </author>
   <generator>Jekyll v{{ jekyll.version }}</generator>
 
