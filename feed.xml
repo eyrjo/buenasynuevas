@@ -16,9 +16,9 @@ layout: null
   {% for post in site.posts limit: 10 %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
-    <link href="{{ site.url }}{{ post.url }}"/>
+    <link href="{{ site.url }}/noticias/{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.url }}{{ post.id }}</id>
+    <id>{{ site.url }}/noticias/{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
