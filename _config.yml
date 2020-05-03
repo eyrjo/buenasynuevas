@@ -15,6 +15,7 @@ url:  'https://yrjo.tk'
 ########
 # more settings
 
+timezone: Europe/Madrid
 markdown: kramdown
 highlighter: rouge
 
