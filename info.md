@@ -34,7 +34,3 @@ Si tienes alguna buena noticia que quieras compartir, [escríbeme](mailto:yrjo@t
     <button class="twitter"></button>
     <button class="whatsapp"></button>
 </div>
-
----
-
-<div style="margin-bottom:3rem;"></div>
