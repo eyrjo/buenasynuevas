@@ -4,8 +4,9 @@ title: "01. De no-reinfecciones, vacunas y cartas"
 permalink: /2020-05-03/
 ---
 
-Hola, muchachada.  
-Hoy os traigo un par de noticias sobre el trabajo que la ciencia está realizando para vencer al COVID-19, una iniciativa solidaria que intenta llegar a un colectivo que se encuentra solo, y una sorpresa para vuestro tiempo libre. Gracias por leer y hasta la próxima.
+> Hola, *muchachada*.  
+> En esta primera edición de *Razones para ser optimista* os traigo un par de noticias sobre el trabajo que la ciencia está realizando para vencer al COVID-19, una iniciativa solidaria que quiere llegar a un colectivo que se encuentra solo, y una sorpresa para vuestro tiempo libre.  
+> Gracias por leer y hasta la próxima.
 
 <!--more-->
 
@@ -23,9 +24,8 @@ La Fundación Atenea ha puesto en marcha la iniciativa “Cartas desde la cuaren
 
 ### Y de postre...
 
-[La Joven Compañía](https://www.lajoven.es) ofrece de forma gratuíta grabaciones de sus representaciones teatrales, así como fichas didácticas para que los más jóvenes entiendan el trasfondo de la obra. Os dejo su versión de Fuenteovejunta, de Lope de Vega, donde todos los personajes _viven, de forma más o menos consciente, el vértigo de asistir a la muerte de un orden y al nacimiento de otro_.  
-  
+[La Joven Compañía](https://www.lajoven.es) ofrece de forma gratuíta grabaciones de sus representaciones teatrales, así como fichas didácticas para que los más jóvenes entiendan el trasfondo de la obra. Os dejo su versión de [Fuenteovejuna, de Lope de Vega](https://www.youtube.com/embed/Ta1gLn8tjeo), donde todos los personajes _viven, de forma más o menos consciente, el vértigo de asistir a la muerte de un orden y al nacimiento de otro_.  
 
-<div style="text-align:center;">
+<div style="text-align:center;margin-top:2rem;">
 <iframe width="640" height="385" src="https://www.youtube.com/embed/Ta1gLn8tjeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
