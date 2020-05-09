@@ -30,7 +30,7 @@ El **Ayuntamiento de Madrid** _ha presentado una guía con recomendaciones para 
 
 Telemadrid emitió el pasado 2 de mayo el especial **Imagina Madrid**: _un recorrido por distintos lugares icónicos de la Comunidad en los que todos estos artistas homenajearán a los madrileños y todos los héroes que luchan contra el coronavirus con sus canciones, sus palabras, su música y su arte_. Cuenta con artistas de la talla de Ara Malikian, Aitana Sánchez-Gijón, Rozalén, Coque Malla, Antonio Najarro, Manuela Velasco y Ainhoa Arteta.  
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelemadrid%2Fvideos%2F191562651832129%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>  
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelemadrid%2Fvideos%2F191562651832129%2F&show_text=0&width=560" width="640" height="385" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>  
 
 Puedes verlo completo [aquí](http://www.telemadrid.es/coronavirus-covid-19/Imagina-Madrid-2-2227897189--20200502100000.html).
 
