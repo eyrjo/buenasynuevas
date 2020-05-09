@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: '02. De llamas fabulosas, cepas y piscinas'
 permalink: /2020-05-09/
@@ -33,4 +33,3 @@ Telemadrid emitió el pasado 2 de mayo el especial **Imagina Madrid**: _un recor
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelemadrid%2Fvideos%2F191562651832129%2F&show_text=0&width=560" width="640" height="385" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>  
 
 Puedes verlo completo [aquí](http://www.telemadrid.es/coronavirus-covid-19/Imagina-Madrid-2-2227897189--20200502100000.html).
-
