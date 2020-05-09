@@ -5,7 +5,7 @@ title: '02. De llamas fabulosas, cepas y piscinas'
 permalink: /2020-05-09/
 ---
 > Hola, *muchachada*.  
-> En esta segunda edición de *Razones para ser optimista* os traigo más noticias científicas sobre el combate contra el COVID-19, incluida una relativa a una de nuestras actividades veraniegas favoritas. También encontraréis una guía para volver a realizar actividades deportivas (pasé un martes un poco dolorido) y otra sorpresa cultural.  
+> En esta segunda edición de *Razones para ser optimista* os traigo más noticias científicas sobre el combate contra el COVID-19, incluida una relativa a una de nuestras actividades veraniegas favoritas. También encontraréis una guía para volver a realizar actividades deportivas —pasé un martes dolorido por el deporte que hice el lunes— y otra sorpresa cultural.  
 > Gracias por leer y hasta la próxima.
 
 <!--more-->
@@ -16,7 +16,7 @@ Desde **The New York Times**: _En una serie de experimentos de laboratorio reali
 
 ### 2. [Hay una, y solo una cepa de SARS-CoV-2](https://translate.google.com/translate?sl=en&tl=es&u=https%3A%2F%2Fwww.virology.ws%2F2020%2F05%2F07%2Fthere-is-one-and-only-one-strain-of-sars-cov-2%2F)
 
-Desde **Virology Blog** —artículo traducido al castellano, versión orginal en inglés [aquí](https://www.virology.ws/2020/05/07/there-is-one-and-only-one-strain-of-sars-cov-2/)—: _Cuando se produce un cambio en la secuencia del genoma del virus SARS-CoV-2, el mundo parece explotar con preocupación por una nueva 'cepa' viral. Quiero explicar por qué esa angustia está equivocada y en el proceso explicar exactamente qué es una cepa de virus y un aislado de virus._
+Desde **Virology Blog** —artículo traducido al castellano, versión orginal en inglés [aquí](https://www.virology.ws/2020/05/07/there-is-one-and-only-one-strain-of-sars-cov-2/)—: _Cuando se produce un cambio en la secuencia del genoma del virus SARS-CoV-2, el mundo parece explotar con preocupación por una nueva 'cepa' viral. Quiero explicar por qué esa angustia está equivocada y en el proceso explicar exactamente qué es una cepa de virus y un virus aislado._
 
 ### 3. [El contagio de coronavirus por el baño en piscinas y playas es poco probable, según el CSIC](https://www.lavanguardia.com/ciencia/20200507/481012081568/contagio-coronavirus-playa-piscina-poco-probable-informe-csic.html)
 
