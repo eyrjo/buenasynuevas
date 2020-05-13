@@ -7,7 +7,7 @@ published: true
 
 # Acerca de
 
-Aunque no lo pareza, todos los días sale el sol.  
+Aunque no lo parezca, todos los días sale el sol.  
 Aunque no lo parezca, todos los días hay buenas noticias.
 
 Los medios de comunicación y las redes sociales priman las noticias _sensacionalistas_ sobre el resto. Es lo que les ayuda a tener audiencia y resultados. Serán las noticias que encabezarán las portadas de los diarios y los sumarios de las televisiones. Muerte, miseria, política, sucesos... Pero, todos los días, se producen otras noticias, más positivas —o, por lo menos, no tan negativas— que no tienen la repercusión que se merecen.
