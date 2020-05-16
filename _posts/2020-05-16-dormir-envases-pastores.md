@@ -26,9 +26,8 @@ Desde **ABC**: _De mutuo acuerdo entre pastores y ganaderos ha surgido la campa�
 
 La popular Fiesta de los Patios de Córdoba no puede desarrollarse normalmente este año, pero el Ayuntamiento de Córdoba está acercando esta experiencia a la ciudadanía de forma virtual. A través de videos inmersivos 360ª, los vecinos y vecinas nos invitan a pasar al interior de su hogar para contemplar la explosión de colores y olores que acontece en sus casas.
 
-<div style="text-align:center;margin-top:2rem;">
+<div style="text-align:center;margin-top:2rem;margin-bottom:2rem;">
 <iframe width="640" height="385" src="https://www.youtube.com/embed/YC5MSlvpX00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 ¡Probad a moveros por el vídeo para descubrir todos los detalles! Puedes ver todos los patios en el [canal de Youtube del Ayuntamiento de Córdoba](https://www.youtube.com/channel/UChBxB0kTHR1PesGeadXIoQg){:target="_blank" rel="noopener"}.
