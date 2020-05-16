@@ -5,7 +5,7 @@ title: 'De dulces sueños, envases limpios y pastores'
 permalink: /2020-05-16/
 ---
 > Hola, *muchachada*.  
-> Un número más de *Razones para ser optimista*, y ya van tres. En esta ocasión, podéis conocer un par de estudios científicos más sobre medicamentos que podrían combatir el virus (y que ya son muy conocidos), la experta palabra de unos expertos en soledad y una sorpresa colorida.  
+> Un número más de *Razones para ser optimista*, y ya van tres. En esta ocasión, podréis leer acerca de la nueva pista que siguen los médicos para aliviar los síntomas de Covid-19, la seguridad de los envases que contienen alimentos, la sabiduría de unos expertos en soledad y disfrutar de una sorpresa colorida.  
 > Gracias por leer y hasta la próxima.
 
 ### 1. [Al coronavirus le sale un nuevo enemigo: la melatonina, el aliado que se postula eficaz en el tratamiento de la infección](https://www.20minutos.es/noticia/4257324/0/al-coronavirus-le-sale-un-nuevo-enemigo-la-melatonina-el-aliado-que-se-postula-eficaz-en-el-tratamiento-de-la-infeccion/?utm_source=twitter.com&utm_medium=smm&utm_campaign=noticias)
