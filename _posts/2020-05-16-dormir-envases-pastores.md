@@ -29,5 +29,5 @@ La popular Fiesta de los Patios de Córdoba no puede desarrollarse normalmente e
 <div style="text-align:center;margin-top:2rem;">
 <iframe width="640" height="385" src="https://www.youtube.com/embed/YC5MSlvpX00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+  
 ¡Probad a moveros por el vídeo para descubrir todos los detalles! Puedes ver todos los patios en el [canal de Youtube del Ayuntamiento de Córdoba](https://www.youtube.com/channel/UChBxB0kTHR1PesGeadXIoQg).
