@@ -25,7 +25,7 @@ Desde **Banco Sabadell**: _Pulso es una herramienta creada por Banco Sabadell pa
 
 ### Un poquito de autobombo
 
-Trabajo en La Casa Encendida, un centro cultural de Madrid. Tras un mes persiguiéndolo, hemos conseguido abrir las instalaciones para una iniciativa social, [la Despensa Solidaria de Arganuela](https://www.lacasaencendida.es/proyectos/despensa-solidaria-arganzuela-11413){:target="_blank" rel="noopener"}, _un proyecto colectivo que trabaja y lucha para, gracias a las donaciones que reciban día a día, garantizar que quienes lo necesitan puedan acceder a una cesta semanal de alimentos y así paliar las situaciones dramáticas que están atravesando muchos vecinos y vecinas._
+Trabajo en La Casa Encendida, un centro cultural de Madrid. Tras un mes persiguiéndolo, hemos conseguido abrir las instalaciones para una iniciativa social, [la Despensa Solidaria de Arganzuela](https://www.lacasaencendida.es/proyectos/despensa-solidaria-arganzuela-11413){:target="_blank" rel="noopener"}, _un proyecto colectivo que trabaja y lucha para, gracias a las donaciones que reciban día a día, garantizar que quienes lo necesitan puedan acceder a una cesta semanal de alimentos y así paliar las situaciones dramáticas que están atravesando muchos vecinos y vecinas._
 
 <div style="text-align:center;margin-top:2rem;margin-bottom:2rem;">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLaCasaEncendida%2Fvideos%2F607896076751571%2F&show_text=0&width=560" width="640" height="385" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
