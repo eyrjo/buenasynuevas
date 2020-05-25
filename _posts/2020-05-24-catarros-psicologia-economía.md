@@ -6,8 +6,7 @@ permalink: /2020-05-25/
 date: 2020-05-25T13:00:00.000Z
 ---
 > Hola, *muchachada*.  
-> Con algo de retraso —perdón—, aquí llega la cuarta semana de *Razones para ser optimista*. Además de las buenas noticias de este fin de semana (apertura de los parques en Madrid, fin de restricciones para julio, vuelta del fútbol en dos semanas...), también hay otras menos conocidas, como la inmunidad cruzada, la creación de aplicaciones de ayuda y de herramientas de información. Y hoy, para variar, dos sorpresas alegres.
-> 
+> Con algo de retraso —perdón—, aquí llega la cuarta semana de *Razones para ser optimista*. Además de las buenas noticias de este fin de semana (apertura de los parques en Madrid, fin de restricciones para julio, vuelta del fútbol en dos semanas...), también hay otras menos conocidas, como la inmunidad cruzada, la creación de aplicaciones de ayuda y de herramientas de información. Y hoy, para variar, dos sorpresas alegres.  
 > Gracias por leer y hasta la próxima.
 
 <!--more-->
