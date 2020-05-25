@@ -6,7 +6,8 @@ permalink: /2020-05-25/
 date: 2020-05-25T13:00:00.000Z
 ---
 > Hola, *muchachada*.  
-> Con algo de retraso —perdón—, aquí llega la cuarta semana de Razones para ser optimista. Además de las buenas noticias de este fin de semana (apertura de los parques en Madrid, fin de restricciones para julio, vuelta del fútbol en dos semanas...), también hay otras menos conocidas, como la inmunidad cruzada, la creación de aplicaciones de ayuda y de herramientas de información. Y hoy, para variar, dos sorpresas alegres.
+> Con algo de retraso —perdón—, aquí llega la cuarta semana de *Razones para ser optimista*. Además de las buenas noticias de este fin de semana (apertura de los parques en Madrid, fin de restricciones para julio, vuelta del fútbol en dos semanas...), también hay otras menos conocidas, como la inmunidad cruzada, la creación de aplicaciones de ayuda y de herramientas de información. Y hoy, para variar, dos sorpresas alegres.
+> 
 > Gracias por leer y hasta la próxima.
 
 <!--more-->
@@ -35,7 +36,8 @@ Para mí, ésta ha sido la mejor noticia de toda la semana.
 
 ### Y de postre...
 
-Aunque muchas de las restricciones a la movilidad ya se están levantando, aún no podemos visitar ningún museo. Y eso que es el momento ideal, porque aún no hay turistas... 
-Lo que sí podemos hacer una visita online. Por ejemplo, conociendo el Museo Sorolla, gracias a su visita virtual 360º, que te permitirá recorrer las diferentes salas de la casa-museo de Joaquín Sorolla y Bastida sin salir de casa.
+Aunque muchas de las restricciones a la movilidad ya se están levantando, aún no podemos visitar ningún museo. Y eso que es el momento ideal, porque aún no hay turistas...
 
-Accede al museo a través de [este enlace](https://www.livingmadrid.com/visita-virtual-360-museo-sorolla/){:target="_blank" rel="noopener"}.
+Lo que sí podemos hacer una visita online. Por ejemplo, a uno de los museos más particulares de Madrid: el Museo Sorolla. Gracias a su visita virtual 360º podemos recorrer las diferentes salas de la casa-museo de Joaquín Sorolla y Bastida sin salir de casa.
+
+Accede al museo a través de este enlace de [Living Madrid](https://www.livingmadrid.com/visita-virtual-360-museo-sorolla/){:target="_blank" rel="noopener"}.
