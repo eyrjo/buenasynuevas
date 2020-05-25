@@ -30,7 +30,6 @@ Trabajo en La Casa Encendida, un centro cultural de Madrid. Tras un mes persigui
 <div style="text-align:center;margin-top:2rem;margin-bottom:2rem;">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLaCasaEncendida%2Fvideos%2F607896076751571%2F&show_text=0&width=560" width="640" height="385" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
-
 Para mí, ésta ha sido la mejor noticia de toda la semana.
 
 ### Y de postre...
